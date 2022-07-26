@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "222157718646",
+    "project_id": "cstask7-3aaee",
+    "storage_bucket": "cstask7-3aaee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222157718646:android:001a8eeed286ff11c40b57",
+        "android_client_info": {
+          "package_name": "com.example.csTask7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222157718646-q3bsgll0h017fdsufvt4vjgi1i1q1k4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY7TI5HlPUYfRzvLx1PYIJUu2UiwBLLMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222157718646-q3bsgll0h017fdsufvt4vjgi1i1q1k4o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "222157718646-hib0k3n0j1a3dmgt9ohq1qpjmkh1ido3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.csTask7"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
